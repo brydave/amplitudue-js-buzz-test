@@ -1,24 +1,24 @@
 const playlistArray = [
   {
-    "name": "Song Name 1",
-    "artist": "Buzzcast",
-    "album": "Buzzcast",
-    "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/231452/11246872-youtube-and-twitter-and-crickets-oh-my-new-apple-podcasts-subscriptions-charts-joe-rogan-not-recommended-by-spotify.mp3",
-    "cover_art_url": "https://storage.buzzsprout.com/variants/v5fzjsb7ah6bjfgdcdxyjhln8vp2/5cfec01b44f3e29fae1fb88ade93fc4aecd05b192fbfbc2c2f1daa412b7c1921?.jpg"
+    "name": "S2 E10: Homestead Update ",
+    "artist": "(no podcorn redirect, no CORS error)",
+    "album": "The Two Acre Homestead test",
+    "url": "https://www.buzzsprout.com/1907932/11234300-s2-e10-homestead-update.mp3",
+    "cover_art_url": "https://storage.buzzsprout.com/variants/pvgpu4iwgh6zbn5319g18r89ytef/6861a7550229613e3387373f20ad829ba4bc5767dd8eb92e70a0abe304d4e657.jpeg"
   },
   {
-    "name": "Song Name 2",
-    "artist": "Buzzcast",
-    "album": "Buzzcast",
-    "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/231452/11162743-90-s-televangelist-aesthetic.mp3",
-    "cover_art_url": "https://storage.buzzsprout.com/variants/v5fzjsb7ah6bjfgdcdxyjhln8vp2/5cfec01b44f3e29fae1fb88ade93fc4aecd05b192fbfbc2c2f1daa412b7c1921?.jpg"
+    "name": "S1 E16: How To Homestead Inexpensively ",
+    "artist": "(no podcorn redirect, no CORS error)",
+    "album": "The Two Acre Homestead test",
+    "url": "https:www.buzzsprout.com/1907932/10413598-s1-e16-how-to-homestead-inexpensively.mp3",
+    "cover_art_url": "https://storage.buzzsprout.com/variants/pvgpu4iwgh6zbn5319g18r89ytef/6861a7550229613e3387373f20ad829ba4bc5767dd8eb92e70a0abe304d4e657.jpeg"
   },
   {
-    "name": "Song Name 3",
-    "artist": "Buzzcast",
-    "album": "Buzzcast",
-    "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/231452/11058968-armchair-treasure-hunter.mp3",
-    "cover_art_url": "https://storage.buzzsprout.com/variants/v5fzjsb7ah6bjfgdcdxyjhln8vp2/5cfec01b44f3e29fae1fb88ade93fc4aecd05b192fbfbc2c2f1daa412b7c1921?.jpg"
+    "name": "S2 E3: Baby Formula--My Experience",
+    "artist": "(uses podcorn, causes CORS error)",
+    "album": "The Two Acre Homestead test",
+    "url": "https://pdcn.co/e/www.buzzsprout.com/1907932/10834247-s2-e3-baby-formula-my-experience.mp3",
+    "cover_art_url": "https://storage.buzzsprout.com/variants/pvgpu4iwgh6zbn5319g18r89ytef/6861a7550229613e3387373f20ad829ba4bc5767dd8eb92e70a0abe304d4e657.jpeg"
   }
 ]
 
