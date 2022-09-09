@@ -10,7 +10,7 @@ const playlistArray = [
     "name": "S1 E16: How To Homestead Inexpensively ",
     "artist": "(no podcorn redirect, no CORS error)",
     "album": "The Two Acre Homestead test",
-    "url": "https:www.buzzsprout.com/1907932/10413598-s1-e16-how-to-homestead-inexpensively.mp3",
+    "url": "https://www.buzzsprout.com/1907932/10413598-s1-e16-how-to-homestead-inexpensively.mp3",
     "cover_art_url": "https://storage.buzzsprout.com/variants/pvgpu4iwgh6zbn5319g18r89ytef/6861a7550229613e3387373f20ad829ba4bc5767dd8eb92e70a0abe304d4e657.jpeg"
   },
   {
